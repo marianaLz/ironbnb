@@ -1,0 +1,14 @@
+$primary: #00b7ff;
+$facebook: #3b5998;
+$success: #32d296;
+
+@import "./reset-view";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}

@@ -1,0 +1,28 @@
+.reset_view_container .reset_view_icon {
+  color: #32d296; }
+
+.reset_view_container .reset_view_info {
+  font-size: 1.3rem; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
+
+a {
+  color: #00b7ff; }
+  a.facebook {
+    text-decoration: none; }
+    a.facebook:hover {
+      color: white; }
+
+.facebook {
+  background-color: #3b5998;
+  color: white; }
+
+.view-container {
+  height: calc(100vh - 80px); }
+
+/*# sourceMappingURL=style.css.map */
